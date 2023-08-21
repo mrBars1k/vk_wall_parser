@@ -1,6 +1,5 @@
 # vk_wall_parser
 Простой парсер стены vk, который собирает весь текст публикации со стены группы в sqlite базу данных.
-A simple VK wall parser that can collect all the text of a group's post and store it in a sqlite database.
 
 Инструкция по получению токена и id сообщества:
 
